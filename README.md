@@ -30,7 +30,7 @@ https://user-images.githubusercontent.com/28682226/137457737-f2b120d6-b663-46ef-
 
 
 The asynchronous interpolation advantages can be seen in the video below:
-960FPS --> 5000FPS (snippet of lego_comb_clean_interp)
+960FPS --> 5000FPS (snippet of lego_comb_clean_interp). Letf panel is from v2e Python. Right is from the current work.
 
 
 https://user-images.githubusercontent.com/28682226/137457766-bb28e514-b5f4-4ace-a81a-351499c893ea.mp4

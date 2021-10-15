@@ -1,5 +1,5 @@
 # v2e-Matlab
-A modified Matlab implementation of v2e. It does not include SlowMo interpolation as in the original work by the authors. The work is compared to a Python (Google Colab) version of v2e by the authors.
+A Matlab implementation of v2e, with limited modifications. It does not include SlowMo interpolation as in the original work by the authors. The work is compared to a Python (Google Colab) version of v2e by the authors.
 The PDF is rushed, so may contain many typos, but contain essential information about concepts, data and results.
 
 One advantage over v2e's implementation include the interpolation (ad-hoc uniform random) of asynchronous shot noise events between the timestamps of two adjacent frames.
